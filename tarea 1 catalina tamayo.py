@@ -20,3 +20,7 @@ def graficar_datos_hd5(ruta_archivo):
     plt.grid(True, linestyle='--', alpha=0.6)
     plt.legend()
     plt.show()
+
+# Nota: 6.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 0/1; claridad: 1/1.
+# Faltan comentarios que expliquen la apertura del archivo y la lectura de los datasets dentro de la función.
